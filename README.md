@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Suniket Roy  
 
-<!--
-**suniketroy/suniketroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about coding, learning, and creating impactful tech projects.  
+💡 I enjoy working with **Python, JavaScript, and Data Science tools**.  
+📚 Always exploring new technologies and improving every day.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 GitHub Stats
+
+![Suniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=suniketroy&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suniketroy&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=suniketroy&theme=tokyonight&hide_border=false)
+
+---
+
+### 🌱 Fun fact  
+I turn ☕ into code, and ideas into projects.
